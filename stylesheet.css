@@ -1,0 +1,16 @@
+.title {
+    text-align: center;
+    font-size: 3em;
+    color: #02ccba;
+}
+.title:hover{
+    font-size: 4em;
+    transition: 1s ease-in;
+    color: #fc3;
+}
+p{
+    text-align: center;
+}
+body{
+    background-color: azure;
+}
